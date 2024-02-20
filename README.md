@@ -1,2 +1,2 @@
 # Songbird
-This is a DALI lab developer challenge. This is a an arcade game called "Songbird" created in Unity.
+This is my DALI lab developer challenge. It is an arcade game called "Songbird" created in Unity.
